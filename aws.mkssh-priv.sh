@@ -2,7 +2,7 @@
 
 # Create Assible from AWS Enviroment
 
-INVfile=aws.ssh-jumpfile
+INVfile=aws.PRV-jumpfile
 SSHkey='/home/ubuntu/.aws/m3DEVaws.pem'
 SSHuid='ubuntu'
 
