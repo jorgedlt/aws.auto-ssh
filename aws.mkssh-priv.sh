@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Create Assible from AWS Enviroment
+# Create cut-&-paste jumpfile from AWS Enviroment
 
 INVfile=aws.PRV-jumpfile
 SSHkey='/home/ubuntu/.aws/m3DEVaws.pem'
